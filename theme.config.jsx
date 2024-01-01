@@ -17,7 +17,7 @@ export default {
     text: (
       <>
         <span>
-          Copyright © 2020 <a href="https://7ms.net" target="_blank">
+          Copyright © 2023 <a href="https://7ms.net" target="_blank">
             7ms.net
           </a>.
           <br />
